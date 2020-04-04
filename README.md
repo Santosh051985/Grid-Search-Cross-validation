@@ -10,4 +10,4 @@ If you work with ML, you know what a nightmare it is to stipulate values for hyp
 # How does it work?
 1. To import GridSearchCV from the sklearn library.
 2. The estimator parameter of GridSearchCV requires the model we are using for the hyper parameter tuning process.
-3. The most significant parameters required when working with the rbf kernel of the SVR model are c, gamma and epsilon. A list of values to choose from should be given to each hyper parameter of the model.
+3. The most significant parameters required when working with the rbf kernel of the SVR model are c, gamma and epsilon.  A list of values to choose from should be given to each hyper parameter of the model.
